@@ -15,7 +15,7 @@ function Header() {
             Ver proyectos
           </a>
           <a
-            href="https://github.com/tuusuario"
+            href="https://github.com/oscyanez"
             target="_blank"
             className="btn-secondary"
           >
