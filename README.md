@@ -4,8 +4,7 @@ Portafolio personal desarrollado con **React + TypeScript + Vite**, orientado a
 mostrar proyectos de desarrollo web y aprendizaje autodidacta.
 
 ## 👨‍💻 Sobre mí
-Ingeniero en Ejecución de la Informática, actualmente en búsqueda de práctica
-profesional y oportunidades laborales junior.
+Ingeniero en Ejecución de la Informática, actualmente en búsqueda de oportunidades laborales.
 
 Estoy fortaleciendo mi perfil mediante el desarrollo de proyectos reales,
 aplicando buenas prácticas de programación y tecnologías modernas.
@@ -16,6 +15,11 @@ aplicando buenas prácticas de programación y tecnologías modernas.
 - Vite
 - CSS moderno (Flexbox y Grid)
 - Git & GitHub
+- HTML 5
+- PHP
+- CSS 3
+- JAVA
+- Javascript
 
 ## 📂 Contenido del portfolio
 - Hero / Presentación
