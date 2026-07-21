@@ -15,11 +15,7 @@ aplicando buenas prácticas de programación y tecnologías modernas.
 - Vite
 - CSS moderno (Flexbox y Grid)
 - Git & GitHub
-- HTML 5
-- PHP
-- CSS 3
-- JAVA
-- Javascript
+  
 
 ## 📂 Contenido del portfolio
 - Hero / Presentación
